@@ -1,8 +1,28 @@
+name: Sammy Ortiz
+favicon: null
 layout_spectrum: 0.9719483
 typography_spectrum: 0.5410679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2874099
+  brandColors:
+    - '#ffffff'
+    - '#080607'
+    - '#c63601'
+    - '#e97343'
+    - '#71828a'
+  brandStrength: 0.5
   lightness: 0.6110083
-  brandStrength: 0.3003839
-  rhythmicContrast: 0.7201749
-name: Sammy Ortiz
+  saturation: 0.2874099
+  rhythmicContrast: 0.75
+purpose: []
